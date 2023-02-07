@@ -48,11 +48,13 @@ O Authentication-microservice é um microsserviço que espelha um CRUD de usuár
 - Clone o repositório
 - docker build -t auth_microservice .
 - docker run -d auth_microservice
+- Por fim, a aplicação estará disponível em http://localhost:3333
 
 ## 🚀 Como executar com docker compose
 
 - Clone o repositório
 - docker compose up -d
+- Por fim, a aplicação estará disponível em http://localhost:3333
 
 ---
 
